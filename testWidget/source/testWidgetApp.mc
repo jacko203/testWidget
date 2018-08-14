@@ -18,7 +18,7 @@ class testWidgetApp extends App.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-
+ 
     	tView = new testWidgetView();
         return [tView, new testWidgetDelegate(tView)];
         // this registers with getInitialView (Toybox::Application::Appbase) an event handler    
