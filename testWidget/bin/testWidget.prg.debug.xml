@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="9" pc="268435456" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="10" pc="268435460" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="13" pc="268435481" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="14" pc="268435499" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="17" pc="268435503" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="18" pc="268435507" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="19" pc="268435528" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="20" pc="268435546" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="24" pc="268435550" symbol="onBack"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="25" pc="268435554" symbol="onBack"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="32" pc="268435573" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="34" pc="268435577" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="35" pc="268435599" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainViewDelegate.mc" lineNum="36" pc="268435609" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="11" pc="268435631" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="12" pc="268435635" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="13" pc="268435648" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="18" pc="268435667" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="19" pc="268435671" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="25" pc="268435709" symbol="onShow"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="29" pc="268435714" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="32" pc="268435718" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="33" pc="268435742" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="36" pc="268435771" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="46" pc="268435792" symbol="onHide"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="49" pc="268435797" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="50" pc="268435801" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="51" pc="268435818" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="55" pc="268435824" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="57" pc="268435837" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="58" pc="268435860" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="59" pc="268435878" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="63" pc="268435882" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="64" pc="268435886" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetMainView.mc" lineNum="65" pc="268435905" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetDelegate.mc" lineNum="9" pc="268435924" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetDelegate.mc" lineNum="10" pc="268435928" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetDelegate.mc" lineNum="11" pc="268435949" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetDelegate.mc" lineNum="12" pc="268435967" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetDelegate.mc" lineNum="15" pc="268435971" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetDelegate.mc" lineNum="17" pc="268435975" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetDelegate.mc" lineNum="18" pc="268435997" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetApp.mc" lineNum="7" pc="268436008" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetApp.mc" lineNum="8" pc="268436012" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetApp.mc" lineNum="12" pc="268436035" symbol="onStart"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetApp.mc" lineNum="16" pc="268436040" symbol="onStop"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetApp.mc" lineNum="20" pc="268436045" symbol="getInitialView"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetApp.mc" lineNum="22" pc="268436049" symbol="getInitialView"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetApp.mc" lineNum="23" pc="268436079" symbol="getInitialView"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="11" pc="268436141" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="13" pc="268436145" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="14" pc="268436158" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="19" pc="268436177" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="20" pc="268436181" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="26" pc="268436219" symbol="onShow"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="30" pc="268436224" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="32" pc="268436228" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="33" pc="268436252" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="35" pc="268436272" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="44" pc="268436293" symbol="onHide"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="48" pc="268436298" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="49" pc="268436302" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/testWidget/./source/testWidgetView.mc" lineNum="50" pc="268436326" symbol="doSelectButton"/>
+        <entry filename="Rez" lineNum="16" pc="268436377" symbol="initialize"/>
+        <entry filename="Rez" lineNum="17" pc="268436381" symbol="initialize"/>
+        <entry filename="Rez" lineNum="20" pc="268436406" symbol="draw"/>
+        <entry filename="Rez" lineNum="21" pc="268436410" symbol="draw"/>
+        <entry filename="Rez" lineNum="22" pc="268436417" symbol="draw"/>
+        <entry filename="Rez" lineNum="23" pc="268436424" symbol="draw"/>
+        <entry filename="Rez" lineNum="24" pc="268436437" symbol="draw"/>
+        <entry filename="Rez" lineNum="25" pc="268436450" symbol="draw"/>
+        <entry filename="Rez" lineNum="28" pc="268436473" symbol="drawComplex"/>
+        <entry filename="Rez" lineNum="30" pc="268436477" symbol="drawComplex"/>
+        <entry filename="Rez" lineNum="31" pc="268436513" symbol="drawComplex"/>
+        <entry filename="Rez" lineNum="44" pc="268436568" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="48" pc="268436580" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="49" pc="268436616" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="50" pc="268436643" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="52" pc="268436659" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="53" pc="268436782" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="54" pc="268436807" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="55" pc="268436859" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="58" pc="268436905" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="10" object="true" symbol="testWidgetMainView"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="11" object="true" symbol="testWidgetDelegate"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="26" symbol="tmainView"/>
+        <entry id="24" method="true" symbol="MainLayout"/>
+        <entry field="true" id="28" symbol="mainView"/>
+        <entry id="18" method="true" symbol="doLapButton"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="23" method="true" symbol="drawComplex"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="25" symbol="AppName"/>
+        <entry id="12" object="true" symbol="testWidgetApp"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="17" method="true" symbol="doSelectButton"/>
+        <entry field="true" id="21" symbol="LauncherIcon"/>
+        <entry field="true" id="16" symbol="cur_text"/>
+        <entry id="13" object="true" symbol="testWidgetView"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="14" symbol="myShapes"/>
+        <entry field="true" id="15" symbol="counter"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="22" object="true" symbol="rectangle"/>
+        <entry id="20" module="true" symbol="Layouts"/>
+        <entry id="9" object="true" symbol="testWidgetMainViewDelegate"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389850" symbol="count"/>
+        <entry field="true" id="8389346" symbol="text"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="19" module="true" symbol="Menus"/>
+        <entry field="true" id="27" symbol="tView"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435631" name="v" stackId="1" startPc="268435573"/>
+        <entry endPc="268435709" name="dc" stackId="1" startPc="268435667"/>
+        <entry endPc="268435791" name="count_text" stackId="2" startPc="268435718"/>
+        <entry endPc="268435792" name="dc" stackId="1" startPc="268435714"/>
+        <entry endPc="268436008" name="v" stackId="1" startPc="268435971"/>
+        <entry endPc="268436040" name="state" stackId="1" startPc="268436035"/>
+        <entry endPc="268436045" name="state" stackId="1" startPc="268436040"/>
+        <entry endPc="268436219" name="dc" stackId="1" startPc="268436177"/>
+        <entry endPc="268436292" name="count_text" stackId="2" startPc="268436228"/>
+        <entry endPc="268436293" name="dc" stackId="1" startPc="268436224"/>
+        <entry endPc="268436376" name="newView" stackId="1" startPc="268436302"/>
+        <entry endPc="268436472" name="pWidth" stackId="4" startPc="268436410"/>
+        <entry endPc="268436472" name="pY" stackId="3" startPc="268436410"/>
+        <entry endPc="268436472" name="pX" stackId="2" startPc="268436410"/>
+        <entry endPc="268436472" name="pHeight" stackId="5" startPc="268436410"/>
+        <entry endPc="268436473" name="dc" stackId="1" startPc="268436406"/>
+        <entry endPc="268436568" name="pWidth" stackId="4" startPc="268436473"/>
+        <entry endPc="268436568" name="dc" stackId="1" startPc="268436473"/>
+        <entry endPc="268436568" name="pY" stackId="3" startPc="268436473"/>
+        <entry endPc="268436568" name="pX" stackId="2" startPc="268436473"/>
+        <entry endPc="268436568" name="pHeight" stackId="5" startPc="268436473"/>
+        <entry endPc="268436932" name="rez_cmp_local_custom_drawable_rectangle" stackId="2" startPc="268436580"/>
+        <entry endPc="268436932" name="rez_cmp_local_bitmap_rate" stackId="3" startPc="268436580"/>
+        <entry endPc="268436932" name="rez_cmp_local_bitmap_rate_fontHeight" stackId="4" startPc="268436580"/>
+        <entry endPc="268436933" name="dc" stackId="1" startPc="268436568"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="onMenu" parent="testWidgetMainViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="testWidgetMainViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="testWidgetMainViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="testWidgetMainViewDelegate">
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="testWidgetMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="testWidgetMainView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="testWidgetMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="testWidgetMainView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="testWidgetMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="doLapButton" parent="testWidgetMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="doSelectButton" parent="testWidgetMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="testWidgetDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="testWidgetDelegate">
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="testWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="testWidgetApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="testWidgetApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="testWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="testWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="testWidgetView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="testWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="testWidgetView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="testWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="doSelectButton" parent="testWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="rectangle">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="rectangle">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="rectangle">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="214" parentId="globals" symbolId="testWidgetView" type="class"/>
+        <dataEntry offset="341" parentId="globals" symbolId="testWidgetMainView" type="class"/>
+        <dataEntry offset="476" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="555" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="602" parentId="Drawables" symbolId="rectangle" type="class"/>
+        <dataEntry offset="665" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="696" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="727" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="758" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="797" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="836" parentId="globals" symbolId="testWidgetMainViewDelegate" type="class"/>
+        <dataEntry offset="915" parentId="globals" symbolId="testWidgetApp" type="class"/>
+        <dataEntry offset="994" parentId="globals" symbolId="testWidgetDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>

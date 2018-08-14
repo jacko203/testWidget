@@ -1,0 +1,6 @@
+<layout id="MainLayout">
+   <!--  <bitmap id="id_monkey" x="center" y="center" filename="../drawables/monkey.png" /> -->
+    <drawable id ="rectangle" />
+    <label id="rate" x="center" y="center" font="Gfx.FONT_LARGE" />
+   <!--   <label text="NA" x="center" y="center" /> -->
+    </layout>
